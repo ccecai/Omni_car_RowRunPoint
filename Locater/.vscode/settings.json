@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "arm_const_structs.h": "c",
+        "xv7011.h": "c",
+        "filter.h": "c",
+        "arm_math.h": "c",
+        "bsp_spi.h": "c",
+        "tim.h": "c",
+        "encoder.h": "c",
+        "os_app_hooks.h": "c",
+        "sys.h": "c",
+        "usart.h": "c",
+        "stm32f4xx_conf.h": "c",
+        "led.h": "c"
+    }
+}

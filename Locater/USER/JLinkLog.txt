@@ -1,0 +1,26 @@
+T3CF8 000:166.486   SEGGER J-Link V7.54c Log File
+T3CF8 000:166.624   DLL Compiled: Sep 20 2021 13:55:02
+T3CF8 000:166.630   Logging started @ 2022-10-17 02:42
+T3CF8 000:166.635 - 166.639ms
+T3CF8 000:166.646 JLINK_SetWarnOutHandler(...)
+T3CF8 000:166.653 - 0.009ms
+T3CF8 000:166.660 JLINK_OpenEx(...)
+T3CF8 052:882.677   Out of sync , resynchronizing...
+T3CF8 052:883.033   Out of sync , resynchronizing...
+T3CF8 052:883.224   Out of sync , resynchronizing...
+T3CF8 052:883.328   
+  ***** Error: 
+T3CF8 052:883.357   Cannot connect to J-Link
+T3CF8 052:899.375 - 52732.764ms returns "Cannot connect to J-Link"
+T3CF8 052:899.596 
+  ***** 
+T3CF8 052:899.643 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T3CF8 052:899.709 JLINK_GetHardwareVersion()
+T3CF8 052:903.313   Out of sync , resynchronizing...
+T3CF8 052:903.584   Out of sync , resynchronizing...
+T3CF8 052:903.843   Out of sync , resynchronizing...
+T3CF8 053:011.390 - 111.699ms
+T3CF8 134:419.985 JLINK_Close()
+T3CF8 134:430.514 - 10.549ms
+T3CF8 134:430.538   
+T3CF8 134:430.545   Closed
